@@ -62,17 +62,17 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 495,052 | 🐛 100 | 📅 2026-06-30
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 394,279 | 🐛 77 | 🌐 Python | 📅 2026-08-11
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 313,644 | 🐛 25 | 🌐 Python | 📅 2026-08-05
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,096 | 🐛 256 | 📅 2024-06-25
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 72,812 | 🐛 12 | 🌐 PHP | 📅 2026-08-12
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 47,503 | 🐛 73 | 📅 2026-05-08
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 495,126 | 🐛 100 | 📅 2026-06-30
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 394,294 | 🐛 79 | 🌐 Python | 📅 2026-08-11
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 313,672 | 🐛 26 | 🌐 Python | 📅 2026-08-05
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,103 | 🐛 256 | 📅 2024-06-25
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 72,816 | 🐛 12 | 🌐 PHP | 📅 2026-08-12
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 47,509 | 🐛 73 | 📅 2026-05-08
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,551 | 🐛 91 | 🌐 Python | 📅 2022-11-27
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,603 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
 * [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,338 | 🐛 162 | 📅 2026-01-16
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,194 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,874 | 🐛 99 | 📅 2026-07-25
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,879 | 🐛 99 | 📅 2026-07-25
 * [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,833 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
 * [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,427 | 🐛 86 | 🌐 C | 📅 2021-12-16
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,646 | 🐛 27 | 📅 2023-10-17
