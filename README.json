@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497536
+            "stars": 497669
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394733
+            "stars": 394765
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314766
+            "stars": 314858
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162119
+            "stars": 162124
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-18T13:47:29Z",
+            "last_commit": "2026-08-19T10:33:47Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72921
+            "stars": 72930
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 47645
+            "stars": 47650
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-06-25T20:42:58Z",
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28168
+            "stars": 28169
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26935
+            "stars": 26943
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2022-02-02T15:49:14Z",
             "owner": "maduce",
             "repo": "fosscad-repo",
-            "stars": 1833
+            "stars": 1834
           }
         },
         {
@@ -368,8 +368,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:09:34.326Z",
+    "last_updated": "2026-08-19T12:56:37.991Z",
     "original_repository": "torchhound/warren",
+    "original_repository_id": 72374883,
     "original_repository_sha": "8bb1eae59f67e2c0f6d50444ef39d993807d8865",
     "enhanced_repository": "enhansome/enhansome-warren",
     "enhanced_repository_description": null,
