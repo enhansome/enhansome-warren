@@ -62,27 +62,27 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,052 | 🐛 106 | 📅 2026-08-21
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 395,044 | 🐛 82 | 🌐 Python | 📅 2026-08-18
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 315,575 | 🐛 23 | 🌐 Python | 📅 2026-08-22
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,159 | 🐛 257 | 📅 2024-06-25
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,006 | 🐛 12 | 🌐 PHP | 📅 2026-08-22
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 47,909 | 🐛 80 | 📅 2026-08-16
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,549 | 🐛 91 | 🌐 Python | 📅 2022-11-27
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,619 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,386 | 🐛 106 | 📅 2026-08-21
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 395,110 | 🐛 85 | 🌐 Python | 📅 2026-08-18
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 315,745 | 🐛 16 | 🌐 Python | 📅 2026-08-24
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,164 | 🐛 257 | 📅 2024-06-25
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,032 | 🐛 12 | 🌐 PHP | 📅 2026-08-23
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 47,979 | 🐛 80 | 📅 2026-08-16
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,550 | 🐛 91 | 🌐 Python | 📅 2022-11-27
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
 * [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,352 | 🐛 162 | 📅 2026-01-16
-* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,168 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,986 | 🐛 102 | 📅 2026-07-25
-* [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,824 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,169 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,995 | 🐛 103 | 📅 2026-07-25
+* [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,823 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
 * [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,409 | 🐛 86 | 🌐 C | 📅 2021-12-16
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,646 | 🐛 27 | 📅 2023-10-17
-* [List of lists](https://github.com/jnv/lists) ⭐ 11,433 | 🐛 21 | 📅 2026-03-23
-* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,557 | 🐛 9 | 📅 2024-09-09
+* [List of lists](https://github.com/jnv/lists) ⭐ 11,435 | 🐛 21 | 📅 2026-03-23
+* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,558 | 🐛 9 | 📅 2024-09-09
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,658 | 🐛 34 | 📅 2025-09-15
 * [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,201 | 🐛 25 | 📅 2024-07-31
-* [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,835 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
+* [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,836 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
 * [Squirt - a tool for speed reading on the web](https://github.com/cameron/squirt) ⭐ 1,226 | 🐛 86 | 🌐 JavaScript | 📅 2020-10-24
-* [Awesome Space Books](https://github.com/Hunter-Github/awesome-space-books) ⭐ 170 | 🐛 6 | 📅 2024-04-12
+* [Awesome Space Books](https://github.com/Hunter-Github/awesome-space-books) ⭐ 171 | 🐛 6 | 📅 2024-04-12
 * [Another Collection of Interesting Links](https://github.com/mrdrozdov/rabbit-holes) ⭐ 64 | 🐛 0 | 📅 2016-05-16
 * [Learning Hoon](https://github.com/knubie/learning-hoon) ⭐ 30 | 🐛 0 | 📅 2016-07-08
 * [GitScience](https://github.com/Hunter-Github/GitScience) ⭐ 22 | 🐛 0 | 📅 2017-04-14
@@ -342,4 +342,4 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
