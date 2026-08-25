@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499518
+            "stars": 499703
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395135
+            "stars": 395174
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-24T06:42:58Z",
+            "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315801
+            "stars": 315922
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162158
+            "stars": 162162
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73037
+            "stars": 73050
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 47991
+            "stars": 48016
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2022-11-27T13:18:32Z",
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39549
+            "stars": 39547
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33620
+            "stars": 33625
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28352
+            "stars": 28354
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2024-06-25T20:42:58Z",
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28170
+            "stars": 28171
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26995
+            "stars": 27001
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2023-10-17T12:04:55Z",
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18646
+            "stars": 18647
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11437
+            "stars": 11439
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2025-09-15T07:55:35Z",
             "owner": "redecentralize",
             "repo": "alternative-internet",
-            "stars": 5658
+            "stars": 5660
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3201
+            "stars": 3203
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2016-05-16T21:07:02Z",
             "owner": "mrdrozdov-github",
             "repo": "rabbit-holes",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:51.184Z",
+    "last_updated": "2026-08-25T06:17:23.664Z",
     "original_repository": "torchhound/warren",
     "original_repository_id": 72374883,
     "original_repository_sha": "8bb1eae59f67e2c0f6d50444ef39d993807d8865",
