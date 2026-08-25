@@ -62,14 +62,14 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 | 🐛 106 | 📅 2026-08-21
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 395,174 | 🐛 87 | 🌐 Python | 📅 2026-08-18
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 315,922 | 🐛 15 | 🌐 Python | 📅 2026-08-25
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,162 | 🐛 258 | 📅 2024-06-25
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,713 | 🐛 106 | 📅 2026-08-21
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 395,179 | 🐛 87 | 🌐 Python | 📅 2026-08-18
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 315,929 | 🐛 15 | 🌐 Python | 📅 2026-08-25
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,163 | 🐛 258 | 📅 2024-06-25
 * [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,050 | 🐛 12 | 🌐 PHP | 📅 2026-08-24
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,016 | 🐛 82 | 📅 2026-08-16
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,547 | 🐛 91 | 🌐 Python | 📅 2022-11-27
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,625 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,624 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
 * [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,354 | 🐛 162 | 📅 2026-01-16
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,171 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
 * [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,001 | 🐛 106 | 📅 2026-07-25

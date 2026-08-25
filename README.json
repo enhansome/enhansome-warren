@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499703
+            "stars": 499713
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395174
+            "stars": 395179
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315922
+            "stars": 315929
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162162
+            "stars": 162163
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33625
+            "stars": 33624
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:23.664Z",
+    "last_updated": "2026-08-25T07:12:15.680Z",
     "original_repository": "torchhound/warren",
     "original_repository_id": 72374883,
     "original_repository_sha": "8bb1eae59f67e2c0f6d50444ef39d993807d8865",
