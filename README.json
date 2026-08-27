@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500368
+            "stars": 500453
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395318
+            "stars": 395345
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316384
+            "stars": 316448
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162175
+            "stars": 162178
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-26T11:12:02Z",
+            "last_commit": "2026-08-27T15:51:06Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73120
+            "stars": 73124
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48124
+            "stars": 48139
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2022-11-27T13:18:32Z",
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39548
+            "stars": 39549
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33628
+            "stars": 33631
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28350
+            "stars": 28348
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27022
+            "stars": 27032
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2024-09-09T16:24:35Z",
             "owner": "engineerapart",
             "repo": "TheRemoteFreelancer",
-            "stars": 7562
+            "stars": 7563
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2022-02-02T15:49:14Z",
             "owner": "maduce",
             "repo": "fosscad-repo",
-            "stars": 1837
+            "stars": 1838
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:39.254Z",
+    "last_updated": "2026-08-27T17:41:13.452Z",
     "original_repository_info": {
       "archived": false,
       "id": 72374883,
