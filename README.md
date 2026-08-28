@@ -62,22 +62,22 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 500,453 | 🐛 105 | 📅 2026-08-21
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 395,345 | 🐛 89 | 🌐 Python | 📅 2026-08-18
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 316,448 | 🐛 15 | 🌐 Python | 📅 2026-08-25
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,178 | 🐛 257 | 📅 2024-06-25
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,124 | 🐛 13 | 🌐 PHP | 📅 2026-08-27
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,139 | 🐛 83 | 📅 2026-08-16
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,549 | 🐛 91 | 🌐 Python | 📅 2022-11-27
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,631 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
-* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,348 | 🐛 162 | 📅 2026-01-16
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 500,806 | 🐛 105 | 📅 2026-08-21
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 395,449 | 🐛 91 | 🌐 Python | 📅 2026-08-18
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 316,727 | 🐛 18 | 🌐 Python | 📅 2026-08-25
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,176 | 🐛 257 | 📅 2024-06-25
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,133 | 🐛 13 | 🌐 PHP | 📅 2026-08-27
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,179 | 🐛 83 | 📅 2026-08-16
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,551 | 🐛 91 | 🌐 Python | 📅 2022-11-27
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,633 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
+* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,349 | 🐛 162 | 📅 2026-01-16
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,173 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,032 | 🐛 104 | 📅 2026-07-25
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,044 | 🐛 104 | 📅 2026-07-25
 * [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,822 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
-* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,411 | 🐛 86 | 🌐 C | 📅 2021-12-16
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,647 | 🐛 27 | 📅 2023-10-17
-* [List of lists](https://github.com/jnv/lists) ⭐ 11,439 | 🐛 22 | 📅 2026-03-23
-* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,563 | 🐛 9 | 📅 2024-09-09
+* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,412 | 🐛 86 | 🌐 C | 📅 2021-12-16
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,648 | 🐛 27 | 📅 2023-10-17
+* [List of lists](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23
+* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,564 | 🐛 9 | 📅 2024-09-09
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,660 | 🐛 34 | 📅 2025-09-15
 * [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,203 | 🐛 25 | 📅 2024-07-31
 * [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,838 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
@@ -342,4 +342,4 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

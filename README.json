@@ -16,7 +16,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         }
       ],
       "title": "Overview"
@@ -186,8 +197,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500453
-          }
+            "stars": 500806
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395345
-          }
+            "stars": 395449
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -216,8 +229,9 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316448
-          }
+            "stars": 316727
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -231,8 +245,9 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162178
-          }
+            "stars": 162176
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -246,8 +261,9 @@
             "last_commit": "2026-08-27T15:51:06Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73124
-          }
+            "stars": 73133
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -261,8 +277,9 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48139
-          }
+            "stars": 48179
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2022-11-27T13:18:32Z",
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39549
-          }
+            "stars": 39551
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -291,8 +309,9 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33631
-          }
+            "stars": 33633
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -306,8 +325,9 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28348
-          }
+            "stars": 28349
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
             "stars": 28173
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -336,8 +357,9 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27032
-          }
+            "stars": 27044
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
             "stars": 23822
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -366,8 +389,9 @@
             "last_commit": "2021-12-16T09:10:55Z",
             "owner": "SamyPesse",
             "repo": "How-to-Make-a-Computer-Operating-System",
-            "stars": 22411
-          }
+            "stars": 22412
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -381,8 +405,9 @@
             "last_commit": "2023-10-17T12:04:55Z",
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18647
-          }
+            "stars": 18648
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -396,8 +421,9 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11439
-          }
+            "stars": 11441
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -411,8 +437,9 @@
             "last_commit": "2024-09-09T16:24:35Z",
             "owner": "engineerapart",
             "repo": "TheRemoteFreelancer",
-            "stars": 7563
-          }
+            "stars": 7564
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "redecentralize",
             "repo": "alternative-internet",
             "stars": 5660
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "emijrp",
             "repo": "awesome-awesome",
             "stars": 3203
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "maduce",
             "repo": "fosscad-repo",
             "stars": 1838
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "cameron",
             "repo": "squirt",
             "stars": 1226
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "Hunter-Github",
             "repo": "awesome-space-books",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "mrdrozdov-github",
             "repo": "rabbit-holes",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "knubie",
             "repo": "learning-hoon",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         },
         {
           "node_type": "item",
@@ -532,14 +566,15 @@
             "owner": "Hunter-Github",
             "repo": "GitScience",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T18:48:35.980Z"
         }
       ],
       "title": "Github Repos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:41:13.452Z",
+    "last_updated": "2026-08-28T18:48:35.980Z",
     "original_repository_info": {
       "archived": false,
       "id": 72374883,
