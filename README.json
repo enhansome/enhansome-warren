@@ -300,7 +300,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501309,
+            "stars": 501605,
             "topics": [
               "awesome",
               "awesome-list",
@@ -324,10 +324,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-08-30T08:24:39Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395573,
+            "stars": 395645,
             "topics": [
               "books",
               "education",
@@ -354,7 +354,7 @@
             "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317112,
+            "stars": 317309,
             "topics": [
               "awesome",
               "awesome-list",
@@ -382,7 +382,7 @@
             "open_issues": 257,
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162191,
+            "stars": 162193,
             "topics": [
               "bash",
               "documentation",
@@ -406,11 +406,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-30T11:13:43Z",
+            "last_commit": "2026-08-31T11:15:26Z",
             "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73168,
+            "stars": 73190,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -428,10 +428,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-16T19:35:44Z",
-            "open_issues": 83,
+            "open_issues": 85,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48234,
+            "stars": 48274,
             "topics": [
               "awesome",
               "awesome-list",
@@ -456,7 +456,7 @@
             "open_issues": 91,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39554,
+            "stars": 39555,
             "topics": [
               "deep-learning"
             ]
@@ -527,7 +527,7 @@
             "open_issues": 203,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28173,
+            "stars": 28175,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -552,10 +552,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27062,
+            "stars": 27076,
             "topics": [
               "awesome",
               "awesome-list"
@@ -605,7 +605,7 @@
             "open_issues": 86,
             "owner": "SamyPesse",
             "repo": "How-to-Make-a-Computer-Operating-System",
-            "stars": 22414,
+            "stars": 22416,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -654,7 +654,7 @@
             "open_issues": 24,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11443,
+            "stars": 11447,
             "topics": [
               "awesome",
               "awesome-list",
@@ -681,7 +681,7 @@
             "open_issues": 9,
             "owner": "engineerapart",
             "repo": "TheRemoteFreelancer",
-            "stars": 7567,
+            "stars": 7568,
             "topics": [
               "freelance-talent",
               "freelancer",
@@ -705,10 +705,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-09-15T07:55:35Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "redecentralize",
             "repo": "alternative-internet",
-            "stars": 5660,
+            "stars": 5662,
             "topics": [
               "decentralization",
               "decentralized-applications"
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T11:59:55.712Z",
+    "last_updated": "2026-08-31T14:02:26.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to lose yourself in, curated from HN and other sources",
