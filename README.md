@@ -62,23 +62,23 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 501,605 | 🐛 105 | 📅 2026-08-21
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 395,645 | 🐛 82 | 🌐 Python | 📅 2026-08-30
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 317,309 | 🐛 18 | 🌐 Python | 📅 2026-08-25
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,193 | 🐛 257 | 📅 2024-06-25
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,190 | 🐛 13 | 🌐 PHP | 📅 2026-08-31
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,274 | 🐛 85 | 📅 2026-08-16
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,555 | 🐛 91 | 🌐 Python | 📅 2022-11-27
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,638 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
-* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,348 | 🐛 162 | 📅 2026-01-16
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 501,891 | 🐛 105 | 📅 2026-08-21
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 395,715 | 🐛 82 | 🌐 Python | 📅 2026-09-01
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 317,529 | 🐛 16 | 🌐 Python | 📅 2026-09-01
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,199 | 🐛 257 | 📅 2024-06-25
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,208 | 🐛 13 | 🌐 PHP | 📅 2026-09-01
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,297 | 🐛 86 | 📅 2026-08-16
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,554 | 🐛 91 | 🌐 Python | 📅 2022-11-27
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,639 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,349 | 🐛 162 | 📅 2026-01-16
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,175 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,076 | 🐛 107 | 📅 2026-07-25
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,080 | 🐛 107 | 📅 2026-07-25
 * [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,821 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
 * [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,416 | 🐛 86 | 🌐 C | 📅 2021-12-16
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,646 | 🐛 27 | 📅 2023-10-17
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,647 | 🐛 27 | 📅 2023-10-17
 * [List of lists](https://github.com/jnv/lists) ⭐ 11,447 | 🐛 24 | 📅 2026-03-23
 * [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,568 | 🐛 9 | 📅 2024-09-09
-* [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,662 | 🐛 35 | 📅 2025-09-15
+* [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,663 | 🐛 35 | 📅 2025-09-15
 * [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,204 | 🐛 26 | 📅 2024-07-31
 * [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,840 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
 * [Squirt - a tool for speed reading on the web](https://github.com/cameron/squirt) ⭐ 1,226 | 🐛 86 | 🌐 JavaScript | 📅 2020-10-24
@@ -342,4 +342,4 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
