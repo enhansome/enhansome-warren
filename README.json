@@ -300,7 +300,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505289,
+            "stars": 505585,
             "topics": [
               "awesome",
               "awesome-list",
@@ -323,11 +323,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-10T16:15:02Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-13T01:04:12Z",
+            "open_issues": 80,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396581,
+            "stars": 396655,
             "topics": [
               "books",
               "education",
@@ -351,10 +351,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 320146,
+            "stars": 320342,
             "topics": [
               "awesome",
               "awesome-list",
@@ -382,7 +382,7 @@
             "open_issues": 256,
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162352,
+            "stars": 162358,
             "topics": [
               "bash",
               "documentation",
@@ -406,11 +406,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-12T10:15:04Z",
+            "last_commit": "2026-09-13T11:13:11Z",
             "open_issues": 8,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73458,
+            "stars": 73477,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -428,10 +428,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-16T19:35:44Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48556,
+            "stars": 48585,
             "topics": [
               "awesome",
               "awesome-list",
@@ -500,7 +500,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28343,
+            "stars": 28342,
             "topics": [
               "android",
               "codepath",
@@ -555,7 +555,7 @@
             "open_issues": 119,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27179,
+            "stars": 27187,
             "topics": [
               "awesome",
               "awesome-list"
@@ -622,11 +622,11 @@
             "id": 31168578,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T06:44:16Z",
+            "last_commit": "2026-09-12T20:36:33Z",
             "open_issues": 27,
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18649,
+            "stars": 18648,
             "topics": [
               "awesome-list",
               "education",
@@ -654,7 +654,7 @@
             "open_issues": 27,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11476,
+            "stars": 11477,
             "topics": [
               "awesome",
               "awesome-list",
@@ -681,7 +681,7 @@
             "open_issues": 10,
             "owner": "engineerapart",
             "repo": "TheRemoteFreelancer",
-            "stars": 7573,
+            "stars": 7574,
             "topics": [
               "freelance-talent",
               "freelancer",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T10:54:47.573Z",
+    "last_updated": "2026-09-13T11:59:56.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to lose yourself in, curated from HN and other sources",
