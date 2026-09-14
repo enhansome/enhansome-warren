@@ -62,24 +62,24 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 505,585 | 🐛 106 | 📅 2026-09-02
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 396,655 | 🐛 80 | 🌐 Python | 📅 2026-09-13
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 320,342 | 🐛 23 | 🌐 Python | 📅 2026-09-01
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,358 | 🐛 256 | 📅 2024-06-25
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,477 | 🐛 8 | 🌐 PHP | 📅 2026-09-13
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,585 | 🐛 91 | 📅 2026-08-16
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,552 | 🐛 91 | 🌐 Python | 📅 2022-11-27
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,666 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 505,932 | 🐛 106 | 📅 2026-09-02
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 396,737 | 🐛 81 | 🌐 Python | 📅 2026-09-14
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 320,543 | 🐛 18 | 🌐 Python | 📅 2026-09-13
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,380 | 🐛 256 | 📅 2024-06-25
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,500 | 🐛 8 | 🌐 PHP | 📅 2026-09-14
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,609 | 🐛 91 | 📅 2026-08-16
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,556 | 🐛 91 | 🌐 Python | 📅 2022-11-27
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,669 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
 * [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,342 | 🐛 162 | 📅 2026-01-16
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,182 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,187 | 🐛 119 | 📅 2026-07-25
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,194 | 🐛 119 | 📅 2026-07-25
 * [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,822 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
-* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,409 | 🐛 86 | 🌐 C | 📅 2021-12-16
+* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,410 | 🐛 86 | 🌐 C | 📅 2021-12-16
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,648 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-12
-* [List of lists](https://github.com/jnv/lists) ⭐ 11,477 | 🐛 27 | 📅 2026-03-23
-* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,574 | 🐛 10 | 📅 2024-09-09
+* [List of lists](https://github.com/jnv/lists) ⭐ 11,480 | 🐛 27 | 📅 2026-03-23
+* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,577 | 🐛 10 | 📅 2024-09-09
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,669 | 🐛 34 | 📅 2026-09-01
-* [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,207 | 🐛 26 | 📅 2024-07-31
+* [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,208 | 🐛 26 | 📅 2024-07-31
 * [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,849 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
 * [Squirt - a tool for speed reading on the web](https://github.com/cameron/squirt) ⭐ 1,225 | 🐛 86 | 🌐 JavaScript | 📅 2020-10-24
 * [Awesome Space Books](https://github.com/Hunter-Github/awesome-space-books) ⭐ 172 | 🐛 6 | 📅 2024-04-12
@@ -342,4 +342,4 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
