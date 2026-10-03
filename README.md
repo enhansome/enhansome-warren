@@ -4,17 +4,17 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ### Table of Contents
 
-* [Open Academic Research](https://github.com/torchhound/warren#open-academic-research) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Blogs](https://github.com/torchhound/warren#blogs) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Github Repositories](https://github.com/torchhound/warren#github-repos) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Websites](https://github.com/torchhound/warren#websites) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Wikipedia](https://github.com/torchhound/warren#wikipedia) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Talks](https://github.com/torchhound/warren#talks) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Youtube](https://github.com/torchhound/warren#youtube) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Reddit](https://github.com/torchhound/warren#reddit) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Webcomics](https://github.com/torchhound/warren#webcomics) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [File Collections](https://github.com/torchhound/warren#file-collections) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
-* [Miscellaneous](https://github.com/torchhound/warren#miscellaneous) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+* [Open Academic Research](https://github.com/torchhound/warren#open-academic-research)
+* [Blogs](https://github.com/torchhound/warren#blogs)
+* [Github Repositories](https://github.com/torchhound/warren#github-repos)
+* [Websites](https://github.com/torchhound/warren#websites)
+* [Wikipedia](https://github.com/torchhound/warren#wikipedia)
+* [Talks](https://github.com/torchhound/warren#talks)
+* [Youtube](https://github.com/torchhound/warren#youtube)
+* [Reddit](https://github.com/torchhound/warren#reddit)
+* [Webcomics](https://github.com/torchhound/warren#webcomics)
+* [File Collections](https://github.com/torchhound/warren#file-collections)
+* [Miscellaneous](https://github.com/torchhound/warren#miscellaneous)
 
 # Open Academic Research
 
@@ -23,7 +23,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [IDEAS](https://ideas.repec.org/)
 * [SSRN](https://www.ssrn.com/)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Blogs
 
@@ -58,36 +58,36 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [Jacobite](https://jacobitemag.com)
 * [hackernoon](https://hackernoon.com)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 513,512 | 🐛 106 | 📅 2026-09-02
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 398,300 | 🐛 102 | 🌐 Python | 📅 2026-09-24
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 324,622 | 🐛 20 | 🌐 Python | 📅 2026-10-02
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,564 | 🐛 256 | 📅 2024-06-25
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,878 | 🐛 9 | 🌐 PHP | 📅 2026-10-02
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 49,162 | 🐛 109 | 📅 2026-09-21
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 398,353 | 🐛 85 | 🌐 Python | 📅 2026-10-02
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,559 | 🐛 256 | 📅 2024-06-25
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,893 | 🐛 9 | 🌐 PHP | 📅 2026-10-02
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 49,171 | 🐛 110 | 📅 2026-09-21
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,567 | 🐛 93 | 🌐 Python | 📅 2022-11-27
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,346 | 🐛 162 | 📅 2026-01-16
+* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,345 | 🐛 162 | 📅 2026-01-16
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,176 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,328 | 🐛 133 | 📅 2026-07-25
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,331 | 🐛 133 | 📅 2026-07-25
 * [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,819 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
 * [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,404 | 🐛 86 | 🌐 C | 📅 2021-12-16
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,728 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-14
 * [List of lists](https://github.com/jnv/lists) ⭐ 11,520 | 🐛 32 | 📅 2026-03-23
 * [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,584 | 🐛 10 | 📅 2024-09-09
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,679 | 🐛 34 | 📅 2026-10-01
-* [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,217 | 🐛 29 | 📅 2024-07-31
-* [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,849 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
+* [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,218 | 🐛 29 | 📅 2024-07-31
+* [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,850 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
 * [Squirt - a tool for speed reading on the web](https://github.com/cameron/squirt) ⭐ 1,225 | 🐛 86 | 🌐 JavaScript | 📅 2020-10-24
 * [Awesome Space Books](https://github.com/Hunter-Github/awesome-space-books) ⭐ 173 | 🐛 6 | 📅 2024-04-12
 * [Another Collection of Interesting Links](https://github.com/mrdrozdov/rabbit-holes) ⭐ 65 | 🐛 0 | 📅 2016-05-16
 * [Learning Hoon](https://github.com/knubie/learning-hoon) ⭐ 30 | 🐛 0 | 📅 2016-07-08
 * [GitScience](https://github.com/Hunter-Github/GitScience) ⭐ 22 | 🐛 0 | 📅 2017-04-14
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Websites
 
@@ -214,7 +214,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [Infinite Jukebox](http://infinitejukebox.playlistmachinery.com/)
 * [Free Rice](http://freerice.com)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Wikipedia
 
@@ -232,7 +232,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [Highway Revolts in the United States](https://en.wikipedia.org/wiki/Highway_revolts_in_the_United_States)
 * [List of Cognitive Biases](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Talks
 
@@ -241,7 +241,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [CCC Media](https://media.ccc.de/)
 * [Internet Archive Hacker Conferences](https://archive.org/details/hackercons)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Youtube
 
@@ -271,7 +271,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [Applied Science](https://www.youtube.com/user/bkraz333?app=desktop)
 * [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Reddit
 
@@ -283,7 +283,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [/r/LEGO](https://www.reddit.com/r/lego/)
 * [Top threads on /r/AskReddit](https://m.reddit.com/r/AskReddit/?sort=top\&t=all)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Webcomics
 
@@ -294,7 +294,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [xkcd](http://xkcd.com/)
 * [Homestuck](http://www.mspaintadventures.com/?s=6)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # File Collections
 
@@ -305,7 +305,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [Anonymous FTP Sites](http://www.ftp-sites.org/)
 * [Liberated Manuals](http://www.liberatedmanuals.com/)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Miscellaneous
 
@@ -338,8 +338,8 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 * [astrobooks](http://astrobooks.com/)
 * [The Dark Mountain Project](http://dark-mountain.net/)
 
-[Back to Top](https://github.com/torchhound/warren#table-of-contents) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
