@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513802,
+            "stars": 513908,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-02T19:35:16Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398353,
+            "stars": 398377,
             "topics": [
               "books",
               "education",
@@ -73,7 +73,7 @@
             "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324781,
+            "stars": 324837,
             "topics": [
               "awesome",
               "awesome-list",
@@ -125,11 +125,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:19:08Z",
+            "last_commit": "2026-10-03T11:38:31Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73893,
+            "stars": 73901,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -150,7 +150,7 @@
             "open_issues": 110,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 49171,
+            "stars": 49179,
             "topics": [
               "awesome",
               "awesome-list",
@@ -198,7 +198,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33696,
+            "stars": 33695,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -246,7 +246,7 @@
             "open_issues": 203,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28176,
+            "stars": 28177,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -324,7 +324,7 @@
             "open_issues": 86,
             "owner": "SamyPesse",
             "repo": "How-to-Make-a-Computer-Operating-System",
-            "stars": 22404,
+            "stars": 22403,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -373,7 +373,7 @@
             "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11520,
+            "stars": 11521,
             "topics": [
               "awesome",
               "awesome-list",
@@ -400,7 +400,7 @@
             "open_issues": 10,
             "owner": "engineerapart",
             "repo": "TheRemoteFreelancer",
-            "stars": 7584,
+            "stars": 7585,
             "topics": [
               "freelance-talent",
               "freelancer",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:07.382Z",
+    "last_updated": "2026-10-03T11:47:50.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to lose yourself in, curated from HN and other sources",
