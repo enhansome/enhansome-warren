@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515370,
+            "stars": 515426,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398581,
+            "stars": 398589,
             "topics": [
               "books",
               "education",
@@ -73,7 +73,7 @@
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325515,
+            "stars": 325547,
             "topics": [
               "awesome",
               "awesome-list",
@@ -125,7 +125,7 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:18:35Z",
+            "last_commit": "2026-10-06T11:16:12Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
@@ -150,7 +150,7 @@
             "open_issues": 114,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 49246,
+            "stars": 49248,
             "topics": [
               "awesome",
               "awesome-list",
@@ -219,7 +219,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28345,
+            "stars": 28347,
             "topics": [
               "android",
               "codepath",
@@ -373,7 +373,7 @@
             "open_issues": 33,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11528,
+            "stars": 11529,
             "topics": [
               "awesome",
               "awesome-list",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:58:18.060Z",
+    "last_updated": "2026-10-06T13:24:49.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to lose yourself in, curated from HN and other sources",

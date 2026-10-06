@@ -62,21 +62,21 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 515,370 | 🐛 106 | 📅 2026-09-02
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 398,581 | 🐛 81 | 🌐 Python | 📅 2026-10-05
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 325,515 | 🐛 19 | 🌐 Python | 📅 2026-10-02
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 515,426 | 🐛 106 | 📅 2026-09-02
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 398,589 | 🐛 81 | 🌐 Python | 📅 2026-10-05
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 325,547 | 🐛 19 | 🌐 Python | 📅 2026-10-02
 * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,576 | 🐛 256 | 📅 2024-06-25
 * [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,970 | 🐛 10 | 🌐 PHP | 📅 2026-10-06
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 49,246 | 🐛 114 | 📅 2026-09-21
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 49,248 | 🐛 114 | 📅 2026-09-21
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,571 | 🐛 93 | 🌐 Python | 📅 2022-11-27
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,345 | 🐛 162 | 📅 2026-01-16
+* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,347 | 🐛 162 | 📅 2026-01-16
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,179 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25
 * [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,354 | 🐛 136 | 📅 2026-07-25
 * [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,818 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
 * [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,405 | 🐛 86 | 🌐 C | 📅 2021-12-16
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,727 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-04
-* [List of lists](https://github.com/jnv/lists) ⭐ 11,528 | 🐛 33 | 📅 2026-03-23
+* [List of lists](https://github.com/jnv/lists) ⭐ 11,529 | 🐛 33 | 📅 2026-03-23
 * [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,589 | 🐛 10 | 📅 2024-09-09
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,680 | 🐛 34 | 📅 2026-10-01
 * [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,221 | 🐛 29 | 📅 2024-07-31
