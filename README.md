@@ -62,25 +62,25 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 526,586 | 🐛 105 | 📅 2026-09-02
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 400,458 | 🐛 89 | 🌐 Python | 📅 2026-10-27
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 331,069 | 🐛 21 | 🌐 Python | 📅 2026-10-29
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,625 | 🐛 256 | 📅 2024-06-25
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,424 | 🐛 9 | 🌐 PHP | 📅 2026-10-29
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 50,096 | 🐛 151 | 📅 2026-09-21
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,601 | 🐛 93 | 🌐 Python | 📅 2022-11-27
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,759 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,345 | 🐛 163 | 📅 2026-01-16
-* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,200 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,574 | 🐛 148 | 📅 2026-07-25
-* [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,819 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
-* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,402 | 🐛 86 | 🌐 C | 📅 2021-12-16
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,744 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-04
-* [List of lists](https://github.com/jnv/lists) ⭐ 11,607 | 🐛 32 | 📅 2026-03-23
-* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,607 | 🐛 14 | 📅 2024-09-09
-* [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,692 | 🐛 37 | 📅 2026-10-01
-* [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,239 | 🐛 26 | 📅 2024-07-31
-* [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,864 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 527,176 | 🐛 105 | 📅 2026-09-02
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 400,526 | 🐛 89 | 🌐 Python | 📅 2026-10-27
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 331,313 | 🐛 22 | 🌐 Python | 📅 2026-10-29
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,623 | 🐛 256 | 📅 2024-06-25
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,436 | 🐛 9 | 🌐 PHP | 📅 2026-10-30
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 50,131 | 🐛 152 | 📅 2026-09-21
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,602 | 🐛 93 | 🌐 Python | 📅 2022-11-27
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,757 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,340 | 🐛 163 | 📅 2026-01-16
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,199 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,587 | 🐛 150 | 📅 2026-07-25
+* [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,818 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
+* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,404 | 🐛 86 | 🌐 C | 📅 2021-12-16
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,743 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-04
+* [List of lists](https://github.com/jnv/lists) ⭐ 11,612 | 🐛 4 | 📅 2026-10-29
+* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,608 | 🐛 14 | 📅 2024-09-09
+* [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,693 | 🐛 37 | 📅 2026-10-01
+* [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,238 | 🐛 26 | 📅 2024-07-31
+* [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,865 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
 * [Squirt - a tool for speed reading on the web](https://github.com/cameron/squirt) ⭐ 1,227 | 🐛 86 | 🌐 JavaScript | 📅 2020-10-24
 * [Awesome Space Books](https://github.com/Hunter-Github/awesome-space-books) ⭐ 174 | 🐛 6 | 📅 2024-04-12
 * [Another Collection of Interesting Links](https://github.com/mrdrozdov/rabbit-holes) ⭐ 66 | 🐛 0 | 📅 2016-05-16
@@ -342,4 +342,4 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
