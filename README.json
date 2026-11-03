@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 104,
+            "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 529442,
+            "stars": 530059,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 94,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400737,
+            "stars": 400804,
             "topics": [
               "books",
               "education",
@@ -73,7 +73,7 @@
             "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 331951,
+            "stars": 332174,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 256,
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162654,
+            "stars": 162660,
             "topics": [
               "bash",
               "documentation",
@@ -125,11 +125,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-02T11:11:01Z",
+            "last_commit": "2026-11-03T11:11:13Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74493,
+            "stars": 74515,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -147,10 +147,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T15:00:51Z",
-            "open_issues": 157,
+            "open_issues": 158,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 50294,
+            "stars": 50325,
             "topics": [
               "awesome",
               "awesome-list",
@@ -198,7 +198,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33765,
+            "stars": 33766,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -219,7 +219,7 @@
             "open_issues": 163,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28342,
+            "stars": 28343,
             "topics": [
               "android",
               "codepath",
@@ -271,10 +271,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27615,
+            "stars": 27622,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 86,
             "owner": "SamyPesse",
             "repo": "How-to-Make-a-Computer-Operating-System",
-            "stars": 22403,
+            "stars": 22402,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -373,7 +373,7 @@
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11625,
+            "stars": 11627,
             "topics": [
               "awesome",
               "awesome-list",
@@ -424,10 +424,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T07:57:29Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "redecentralize",
             "repo": "alternative-internet",
-            "stars": 5694,
+            "stars": 5695,
             "topics": [
               "decentralization",
               "decentralized-applications"
@@ -475,7 +475,7 @@
             "open_issues": 22,
             "owner": "maduce",
             "repo": "fosscad-repo",
-            "stars": 1869,
+            "stars": 1870,
             "topics": [
               "3dprinting",
               "cad",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:11:25.481Z",
+    "last_updated": "2026-11-03T14:26:31.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to lose yourself in, curated from HN and other sources",
