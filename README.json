@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 530059,
+            "stars": 530726,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-01T02:48:06Z",
-            "open_issues": 94,
+            "open_issues": 96,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400804,
+            "stars": 400850,
             "topics": [
               "books",
               "education",
@@ -73,7 +73,7 @@
             "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 332174,
+            "stars": 332391,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 256,
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162660,
+            "stars": 162666,
             "topics": [
               "bash",
               "documentation",
@@ -125,11 +125,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:11:13Z",
+            "last_commit": "2026-11-04T12:16:19Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74515,
+            "stars": 74530,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -147,10 +147,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T15:00:51Z",
-            "open_issues": 158,
+            "open_issues": 160,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 50325,
+            "stars": 50347,
             "topics": [
               "awesome",
               "awesome-list",
@@ -175,7 +175,7 @@
             "open_issues": 93,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39601,
+            "stars": 39603,
             "topics": [
               "deep-learning"
             ]
@@ -198,7 +198,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33766,
+            "stars": 33770,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -219,7 +219,7 @@
             "open_issues": 163,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28343,
+            "stars": 28344,
             "topics": [
               "android",
               "codepath",
@@ -246,7 +246,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28199,
+            "stars": 28202,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -271,10 +271,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 152,
+            "open_issues": 151,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27622,
+            "stars": 27630,
             "topics": [
               "awesome",
               "awesome-list"
@@ -298,7 +298,7 @@
             "open_issues": 92,
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23816,
+            "stars": 23817,
             "topics": [
               "functional-programming",
               "javascript",
@@ -324,7 +324,7 @@
             "open_issues": 86,
             "owner": "SamyPesse",
             "repo": "How-to-Make-a-Computer-Operating-System",
-            "stars": 22402,
+            "stars": 22401,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -373,7 +373,7 @@
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11627,
+            "stars": 11628,
             "topics": [
               "awesome",
               "awesome-list",
@@ -397,7 +397,7 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2024-09-09T16:24:35Z",
-            "open_issues": 15,
+            "open_issues": 17,
             "owner": "engineerapart",
             "repo": "TheRemoteFreelancer",
             "stars": 7609,
@@ -451,7 +451,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3242,
+            "stars": 3244,
             "topics": [
               "awesome",
               "awesome-list"
@@ -475,7 +475,7 @@
             "open_issues": 22,
             "owner": "maduce",
             "repo": "fosscad-repo",
-            "stars": 1870,
+            "stars": 1872,
             "topics": [
               "3dprinting",
               "cad",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:26:31.564Z",
+    "last_updated": "2026-11-04T14:41:03.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to lose yourself in, curated from HN and other sources",
