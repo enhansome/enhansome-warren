@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 531469,
+            "stars": 532159,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-01T02:48:06Z",
-            "open_issues": 100,
+            "open_issues": 102,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400925,
+            "stars": 401064,
             "topics": [
               "books",
               "education",
@@ -69,11 +69,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T09:23:53Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-06T02:37:29Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 332663,
+            "stars": 332914,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 256,
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162682,
+            "stars": 162689,
             "topics": [
               "bash",
               "documentation",
@@ -125,11 +125,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-05T11:10:40Z",
+            "last_commit": "2026-11-06T11:10:39Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74553,
+            "stars": 74576,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -147,10 +147,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T15:00:51Z",
-            "open_issues": 163,
+            "open_issues": 164,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 50382,
+            "stars": 50402,
             "topics": [
               "awesome",
               "awesome-list",
@@ -198,7 +198,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33770,
+            "stars": 33769,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -246,7 +246,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28201,
+            "stars": 28205,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -274,7 +274,7 @@
             "open_issues": 152,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27638,
+            "stars": 27651,
             "topics": [
               "awesome",
               "awesome-list"
@@ -298,7 +298,7 @@
             "open_issues": 92,
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23818,
+            "stars": 23819,
             "topics": [
               "functional-programming",
               "javascript",
@@ -324,7 +324,7 @@
             "open_issues": 86,
             "owner": "SamyPesse",
             "repo": "How-to-Make-a-Computer-Operating-System",
-            "stars": 22401,
+            "stars": 22399,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -345,7 +345,7 @@
             "open_issues": 28,
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18744,
+            "stars": 18743,
             "topics": [
               "awesome-list",
               "education",
@@ -369,11 +369,11 @@
             "id": 14408715,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-05T14:24:42Z",
+            "last_commit": "2026-11-05T23:20:38Z",
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11629,
+            "stars": 11636,
             "topics": [
               "awesome",
               "awesome-list",
@@ -400,7 +400,7 @@
             "open_issues": 17,
             "owner": "engineerapart",
             "repo": "TheRemoteFreelancer",
-            "stars": 7609,
+            "stars": 7608,
             "topics": [
               "freelance-talent",
               "freelancer",
@@ -451,7 +451,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3245,
+            "stars": 3246,
             "topics": [
               "awesome",
               "awesome-list"
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:45:38.425Z",
+    "last_updated": "2026-11-06T14:23:46.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to lose yourself in, curated from HN and other sources",
