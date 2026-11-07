@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 532159,
+            "stars": 532861,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-01T02:48:06Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401064,
+            "stars": 401189,
             "topics": [
               "books",
               "education",
@@ -69,11 +69,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T02:37:29Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-06T17:47:24Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 332914,
+            "stars": 333128,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 256,
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162689,
+            "stars": 162697,
             "topics": [
               "bash",
               "documentation",
@@ -125,11 +125,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-06T11:10:39Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-07T11:08:45Z",
+            "open_issues": 11,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74576,
+            "stars": 74588,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -147,10 +147,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T15:00:51Z",
-            "open_issues": 164,
+            "open_issues": 168,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 50402,
+            "stars": 50426,
             "topics": [
               "awesome",
               "awesome-list",
@@ -175,7 +175,7 @@
             "open_issues": 93,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39603,
+            "stars": 39602,
             "topics": [
               "deep-learning"
             ]
@@ -198,7 +198,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33769,
+            "stars": 33771,
             "topics": []
           },
           "first_seen": "2026-08-28T18:48:35.980Z"
@@ -246,7 +246,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28205,
+            "stars": 28206,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -271,10 +271,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27651,
+            "stars": 27654,
             "topics": [
               "awesome",
               "awesome-list"
@@ -373,7 +373,7 @@
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11636,
+            "stars": 11640,
             "topics": [
               "awesome",
               "awesome-list",
@@ -400,7 +400,7 @@
             "open_issues": 17,
             "owner": "engineerapart",
             "repo": "TheRemoteFreelancer",
-            "stars": 7608,
+            "stars": 7609,
             "topics": [
               "freelance-talent",
               "freelancer",
@@ -475,7 +475,7 @@
             "open_issues": 22,
             "owner": "maduce",
             "repo": "fosscad-repo",
-            "stars": 1873,
+            "stars": 1874,
             "topics": [
               "3dprinting",
               "cad",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:23:46.817Z",
+    "last_updated": "2026-11-07T13:14:45.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to lose yourself in, curated from HN and other sources",
