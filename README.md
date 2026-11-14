@@ -62,23 +62,23 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 # Github Repos
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 536,267 | 🐛 103 | 📅 2026-09-02
-* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 401,534 | 🐛 93 | 🌐 Python | 📅 2026-11-12
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 334,468 | 🐛 23 | 🌐 Python | 📅 2026-11-13
-* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,742 | 🐛 256 | 📅 2024-06-25
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,741 | 🐛 11 | 🌐 PHP | 📅 2026-11-13
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 50,585 | 🐛 174 | 📅 2026-09-21
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 536,695 | 🐛 104 | 📅 2026-09-02
+* [Free Programming Books](https://github.com/vhf/free-programming-books) ⭐ 401,578 | 🐛 93 | 🌐 Python | 📅 2026-11-12
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 334,676 | 🐛 23 | 🌐 Python | 📅 2026-11-13
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,751 | 🐛 256 | 📅 2024-06-25
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,756 | 🐛 11 | 🌐 PHP | 📅 2026-11-14
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 50,607 | 🐛 177 | 📅 2026-09-21
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,602 | 🐛 93 | 🌐 Python | 📅 2022-11-27
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,785 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,787 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
 * [Codepath Android Cliffnotes](https://github.com/codepath/android_guides) ⭐ 28,344 | 🐛 163 | 📅 2026-01-16
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,208 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,719 | 🐛 165 | 📅 2026-07-25
-* [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,816 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
-* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,399 | 🐛 86 | 🌐 C | 📅 2021-12-16
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,743 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-04
-* [List of lists](https://github.com/jnv/lists) ⭐ 11,661 | 🐛 3 | 📅 2026-11-05
-* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,610 | 🐛 17 | 📅 2024-09-09
-* [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,700 | 🐛 38 | 📅 2026-10-01
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,727 | 🐛 169 | 📅 2026-07-25
+* [Mostly Adequate Guide to Functional Programming in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,817 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
+* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,397 | 🐛 86 | 🌐 C | 📅 2021-12-16
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,744 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-04
+* [List of lists](https://github.com/jnv/lists) ⭐ 11,662 | 🐛 4 | 📅 2026-11-05
+* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) ⭐ 7,611 | 🐛 17 | 📅 2024-09-09
+* [Alternative Internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,701 | 🐛 38 | 📅 2026-10-01
 * [Awesome Awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,246 | 🐛 28 | 📅 2024-07-31
 * [Fosscad Repo - The official library for fosscad.org](https://github.com/maduce/fosscad-repo) ⭐ 1,880 | 🐛 22 | 🌐 OpenSCAD | 📅 2022-02-02
 * [Squirt - a tool for speed reading on the web](https://github.com/cameron/squirt) ⭐ 1,227 | 🐛 86 | 🌐 JavaScript | 📅 2020-10-24
@@ -342,4 +342,4 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
